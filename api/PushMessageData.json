@@ -36,6 +36,9 @@
           "webview_android": {
             "version_added": false,
             "notes": "See <a href='https://crbug.com/421921'>bug 421921</a>."
+          },
+          "cobalt": {
+            "version_added": "1"
           }
         },
         "status": {
@@ -79,6 +82,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "1"
             }
           },
           "status": {
@@ -123,6 +129,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "1"
             }
           },
           "status": {
@@ -167,6 +176,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "1"
             }
           },
           "status": {
@@ -211,6 +223,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "1"
             }
           },
           "status": {

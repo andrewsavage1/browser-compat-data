@@ -97,7 +97,10 @@
                 "prefix": "-webkit-",
                 "version_added": "2"
               }
-            ]
+            ],
+            "cobalt": {
+              "version_added": "1"
+            }
           },
           "status": {
             "experimental": false,

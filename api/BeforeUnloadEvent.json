@@ -34,6 +34,9 @@
           },
           "webview_android": {
             "version_added": "≤37"
+          },
+          "cobalt": {
+            "version_added": "1"
           }
         },
         "status": {
@@ -75,6 +78,9 @@
             },
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "1"
             }
           },
           "status": {

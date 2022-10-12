@@ -83,7 +83,10 @@
               "partial_implementation": true,
               "notes": "Implemented as an alias for <code>Document</code>."
             }
-          ]
+          ],
+          "cobalt": {
+            "version_added": "1"
+          }
         },
         "status": {
           "experimental": false,

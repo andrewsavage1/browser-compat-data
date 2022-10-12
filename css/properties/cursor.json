@@ -36,6 +36,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "1"
             }
           },
           "status": {
@@ -78,6 +81,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -121,6 +127,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -162,6 +171,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -205,6 +217,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -248,6 +263,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -291,6 +309,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -336,6 +357,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -379,6 +403,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -420,6 +447,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -461,6 +491,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -550,6 +583,9 @@
               ],
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -591,6 +627,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -632,6 +671,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -673,6 +715,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -716,6 +761,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -755,6 +803,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -798,6 +849,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -839,6 +893,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -880,6 +937,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -923,6 +983,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -964,6 +1027,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -1005,6 +1071,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -1047,6 +1116,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -1087,6 +1159,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -1130,6 +1205,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -1171,6 +1249,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {
@@ -1248,6 +1329,9 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": false
+              },
+              "cobalt": {
+                "version_added": "1"
               }
             },
             "status": {

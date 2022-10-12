@@ -49,6 +49,9 @@
             "webview_android": {
               "version_added": "1",
               "notes": "Before Chrome 94, <code>outline</code> does not follow the shape of <code>border-radius</code>."
+            },
+            "cobalt": {
+              "version_added": "1"
             }
           },
           "status": {

@@ -28,7 +28,10 @@
             "samsunginternet_android": {
               "version_added": "5.0"
             },
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "1"
+            }
           },
           "status": {
             "experimental": false,
@@ -64,7 +67,10 @@
                 "alternative_name": "-webkit-fill-available",
                 "version_added": "5.0"
               },
-              "webview_android": "mirror"
+              "webview_android": "mirror",
+              "cobalt": {
+                "version_added": "1"
+              }
             },
             "status": {
               "experimental": false,
@@ -144,7 +150,10 @@
               "samsunginternet_android": {
                 "version_added": "5.0"
               },
-              "webview_android": "mirror"
+              "webview_android": "mirror",
+              "cobalt": {
+                "version_added": "1"
+              }
             },
             "status": {
               "experimental": false,
@@ -185,7 +194,10 @@
               "samsunginternet_android": {
                 "version_added": "5.0"
               },
-              "webview_android": "mirror"
+              "webview_android": "mirror",
+              "cobalt": {
+                "version_added": "1"
+              }
             },
             "status": {
               "experimental": false,

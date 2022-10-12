@@ -62,6 +62,7 @@ const realValuesTargetBrowsers = [
   'safari_ios',
   'samsunginternet_android',
   'webview_android',
+  'cobalt',
 ];
 
 const realValuesRequired: { [category: string]: string[] } = {

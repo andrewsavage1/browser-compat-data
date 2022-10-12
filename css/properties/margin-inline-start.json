@@ -60,7 +60,10 @@
                 "version_added": "2",
                 "alternative_name": "-webkit-margin-start"
               }
-            ]
+            ],
+            "cobalt": {
+              "version_added": "1"
+            }
           },
           "status": {
             "experimental": false,
