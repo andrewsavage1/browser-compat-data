@@ -1,0 +1,18 @@
+{
+  "browsers": {
+    "cobalt": {
+      "name": "Cobalt",
+      "type": "desktop",
+      "accepts_flags": false,
+      "accepts_webextensions": false,
+      "releases": {
+        "11.0": {
+          "release_date": "2022-10-11",
+          "status": "current",
+          "engine": "Blink",
+          "engine_version": "1"
+        }
+      }
+    }
+  }
+}
