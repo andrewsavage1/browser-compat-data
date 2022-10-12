@@ -169,7 +169,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -458,7 +458,10 @@
               "notes": "Exposed in Mobile Safari on iPad but not on iPhone."
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "≤23"
+            }
           },
           "status": {
             "experimental": false,
@@ -548,7 +551,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -620,7 +623,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -922,7 +925,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -994,7 +997,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1066,7 +1069,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1178,7 +1181,10 @@
               "notes": "Exposed in Mobile Safari on iPad but not on iPhone."
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "≤23"
+            }
           },
           "status": {
             "experimental": false,

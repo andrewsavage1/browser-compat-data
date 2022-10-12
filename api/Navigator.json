@@ -180,7 +180,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -223,7 +223,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -266,7 +266,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -378,7 +378,7 @@
               "notes": "See <a href='https://crbug.com/1100993'>bug 1100993</a>."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -596,7 +596,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -633,7 +633,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -681,7 +681,7 @@
               "version_added": "50"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -809,7 +809,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -846,7 +846,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -895,7 +895,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -942,7 +942,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1013,7 +1013,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1103,7 +1103,7 @@
               }
             ],
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1197,7 +1197,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1285,7 +1285,7 @@
               }
             ],
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1440,7 +1440,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1479,7 +1479,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1517,7 +1517,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1597,7 +1597,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1732,7 +1732,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1779,7 +1779,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -1820,7 +1820,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -2190,7 +2190,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -2230,7 +2230,7 @@
               "notes": "See <a href='https://crbug.com/490120'>bug 490120</a>."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -2279,7 +2279,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -2408,7 +2408,7 @@
               "notes": "See <a href='https://crbug.com/521319'>bug 521319</a>."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -2447,7 +2447,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -2489,7 +2489,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -2533,7 +2533,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -3887,7 +3887,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -3961,7 +3961,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4016,7 +4016,7 @@
               "notes": "Starting in Chrome 59, this method cannot send a <code>Blob</code> whose type is not CORS safelisted. This is a temporary change until a mitigation can be found for the security issues that this creates. For more information see <a href='https://crbug.com/720283'>Chrome bug 720283</a>."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4055,7 +4055,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4137,7 +4137,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4329,7 +4329,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4414,7 +4414,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4453,7 +4453,7 @@
               "notes": "WebView exposes <code>navigator.usb</code>, but does not support WebUSB. See <a href='https://crbug.com/933055'>Chromium bug 933055</a>."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4490,7 +4490,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4575,7 +4575,7 @@
               "notes": "See <a href='https://crbug.com/921655'>bug 921655</a>."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4648,7 +4648,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4689,7 +4689,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4775,7 +4775,7 @@
               ]
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4811,7 +4811,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4848,7 +4848,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4887,7 +4887,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -4964,7 +4964,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

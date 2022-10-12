@@ -36,7 +36,7 @@
             "version_added": "≤37"
           },
           "cobalt": {
-            "version_added": "1"
+            "version_added": false
           }
         },
         "status": {
@@ -79,7 +79,7 @@
             },
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -157,7 +157,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -202,7 +202,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -247,7 +247,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -292,7 +292,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -337,7 +337,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -384,7 +384,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -700,7 +700,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -745,7 +745,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -795,7 +795,7 @@
               "version_added": "≤37"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

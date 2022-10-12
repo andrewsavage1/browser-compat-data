@@ -82,7 +82,7 @@
               "notes": "Since WebView 59, method parameters are required instead of optional."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -175,7 +175,7 @@
               "notes": "Since WebView 59, method parameters are required instead of optional."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -222,7 +222,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

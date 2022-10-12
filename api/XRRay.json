@@ -29,7 +29,7 @@
             "version_added": false
           },
           "cobalt": {
-            "version_added": "1"
+            "version_added": false
           }
         },
         "status": {
@@ -68,7 +68,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -107,7 +107,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -146,7 +146,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -185,7 +185,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

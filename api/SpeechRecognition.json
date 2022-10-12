@@ -28,7 +28,10 @@
           },
           "safari_ios": "mirror",
           "samsunginternet_android": "mirror",
-          "webview_android": "mirror"
+          "webview_android": "mirror",
+          "cobalt": {
+            "version_added": "≤23"
+          }
         },
         "status": {
           "experimental": false,
@@ -71,6 +74,9 @@
             "webview_android": {
               "prefix": "webkit",
               "version_added": "37"
+            },
+            "cobalt": {
+              "version_added": "≤23"
             }
           },
           "status": {
@@ -148,7 +154,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -189,7 +195,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -267,7 +273,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -345,7 +351,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -661,7 +667,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -702,7 +708,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -780,7 +786,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

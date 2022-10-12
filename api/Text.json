@@ -111,7 +111,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -201,7 +201,7 @@
               "notes": "Before version 4.4, the <code>offset</code> parameter was optional."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -244,7 +244,7 @@
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

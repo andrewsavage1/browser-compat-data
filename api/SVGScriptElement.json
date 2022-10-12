@@ -37,7 +37,7 @@
             "version_added": "3"
           },
           "cobalt": {
-            "version_added": "1"
+            "version_added": false
           }
         },
         "status": {
@@ -70,7 +70,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "≤23"
+            }
           },
           "status": {
             "experimental": false,
@@ -115,7 +118,7 @@
               "version_added": "3"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

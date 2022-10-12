@@ -37,7 +37,7 @@
               "samsunginternet_android": "mirror",
               "webview_android": "mirror",
               "cobalt": {
-                "version_added": "1"
+                "version_added": false
               }
             },
             "status": {
@@ -124,7 +124,7 @@
                 "samsunginternet_android": "mirror",
                 "webview_android": "mirror",
                 "cobalt": {
-                  "version_added": "1"
+                  "version_added": false
                 }
               },
               "status": {

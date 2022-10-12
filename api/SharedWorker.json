@@ -53,7 +53,7 @@
           },
           "webview_android": "mirror",
           "cobalt": {
-            "version_added": "1"
+            "version_added": false
           }
         },
         "status": {
@@ -116,7 +116,7 @@
             },
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -249,7 +249,7 @@
             },
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -312,7 +312,7 @@
             },
             "webview_android": "mirror",
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

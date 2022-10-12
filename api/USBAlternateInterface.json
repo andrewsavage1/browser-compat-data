@@ -30,7 +30,7 @@
             "notes": "WebView exposes this interface, but does not support WebUSB. See <a href='https://crbug.com/933055'>Chromium bug 933055</a>."
           },
           "cobalt": {
-            "version_added": "1"
+            "version_added": false
           }
         },
         "status": {
@@ -68,7 +68,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -107,7 +107,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -146,7 +146,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -185,7 +185,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -224,7 +224,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -263,7 +263,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -302,7 +302,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

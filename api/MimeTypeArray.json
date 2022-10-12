@@ -82,7 +82,7 @@
               "notes": "Before version 59, method parameters were optional"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -175,7 +175,7 @@
               "notes": "Before version 59, method parameters were optional"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

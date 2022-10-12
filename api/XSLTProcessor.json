@@ -35,7 +35,7 @@
             "version_added": "3"
           },
           "cobalt": {
-            "version_added": "1"
+            "version_added": false
           }
         },
         "status": {
@@ -79,7 +79,7 @@
               "version_added": "3"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -124,7 +124,7 @@
               "version_added": "3"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -175,7 +175,7 @@
               "notes": "WebView only supports string values."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -220,7 +220,7 @@
               "version_added": "3"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -265,7 +265,7 @@
               "version_added": "3"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -310,7 +310,7 @@
               "version_added": "3"
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -361,7 +361,7 @@
               "notes": "WebView only supports string values."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -419,7 +419,7 @@
               "notes": "WebView returns <code>null</code> if an error occurs."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -477,7 +477,7 @@
               "notes": "WebView returns <code>null</code> if an error occurs."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

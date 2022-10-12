@@ -64,7 +64,7 @@
             "notes": "See <a href='https://crbug.com/1100993'>bug 1100993</a>."
           },
           "cobalt": {
-            "version_added": "1"
+            "version_added": false
           }
         },
         "status": {
@@ -102,7 +102,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -141,7 +141,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -180,7 +180,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -219,7 +219,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -258,7 +258,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -297,7 +297,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -336,7 +336,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -375,7 +375,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -414,7 +414,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

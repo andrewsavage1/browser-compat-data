@@ -51,7 +51,7 @@
               "notes": "Before Chrome 94, <code>outline</code> does not follow the shape of <code>border-radius</code>."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {

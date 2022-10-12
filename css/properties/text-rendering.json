@@ -48,7 +48,7 @@
               "notes": "From version 3 to 4.3, there is a serious bug where <code>text-rendering: optimizeLegibility</code> causes custom web fonts to not render. This was fixed in version 4.4."
             },
             "cobalt": {
-              "version_added": "1"
+              "version_added": false
             }
           },
           "status": {
@@ -92,7 +92,7 @@
                 "notes": "WebView treats <code>auto</code> as <code>optimizeSpeed</code>."
               },
               "cobalt": {
-                "version_added": "1"
+                "version_added": false
               }
             },
             "status": {
@@ -136,7 +136,7 @@
                 "notes": "Supports true geometric precision without rounding up or down to the nearest supported font size in the operating system."
               },
               "cobalt": {
-                "version_added": "1"
+                "version_added": false
               }
             },
             "status": {
