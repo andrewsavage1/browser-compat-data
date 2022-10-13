@@ -20,6 +20,12 @@
         },
         "20.6.0": {
           "release_date": "2022-10-11",
+          "status": "retired",
+          "engine": "Blink",
+          "engine_version": "1"
+        },
+        "21.7.0": {
+          "release_date": "2022-10-11",
           "status": "current",
           "engine": "Blink",
           "engine_version": "1"
