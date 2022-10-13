@@ -10,7 +10,8 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": "11.0"
+              "version_added": "11.0",
+              "version_removed": "19.5.0"
             },
             "deno": {
               "version_added": false
@@ -52,7 +53,8 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": "11.0"
+                "version_added": "11.0",
+                "version_removed": "19.5.0"
               },
               "deno": {
                 "version_added": false

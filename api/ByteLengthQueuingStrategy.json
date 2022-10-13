@@ -59,7 +59,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "≤19.5.0"
             },
             "deno": {
               "version_added": "1.0"
