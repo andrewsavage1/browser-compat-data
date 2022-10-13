@@ -243,7 +243,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "23.2.0"
             },
             "deno": {
               "version_added": "1.0"
@@ -288,7 +288,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "23.2.0"
             },
             "deno": {
               "version_added": "1.0"
@@ -333,7 +333,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "23.2.0"
             },
             "deno": {
               "version_added": "1.0"
@@ -378,7 +378,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "23.2.0"
             },
             "deno": {
               "version_added": "1.0"
@@ -423,7 +423,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "23.2.0"
             },
             "deno": {
               "version_added": "1.0"
@@ -524,7 +524,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "23.2.0"
             },
             "deno": {
               "version_added": "1.0"
@@ -570,7 +570,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "23.2.0"
             },
             "deno": {
               "version_added": "1.0"
@@ -615,7 +615,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "23.2.0"
             },
             "deno": {
               "version_added": "1.0"
@@ -706,7 +706,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "23.2.0"
             },
             "deno": {
               "version_added": "1.0"

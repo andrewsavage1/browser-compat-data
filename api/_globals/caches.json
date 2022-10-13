@@ -10,7 +10,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": false
+            "version_added": "23.2.0"
           },
           "deno": {
             "version_added": false
