@@ -9,6 +9,9 @@
             "version_added": "43"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": "mirror",
           "firefox": [
             {
@@ -62,6 +65,9 @@
               "notes": "See <a href='https://crbug.com/471798'>bug 471798</a>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {
@@ -113,6 +119,9 @@
               "version_added": "43"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {

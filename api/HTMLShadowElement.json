@@ -9,6 +9,9 @@
             "version_removed": "89"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": "mirror",
           "firefox": {
             "version_added": "29",
@@ -49,6 +52,9 @@
               "version_removed": "89"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false

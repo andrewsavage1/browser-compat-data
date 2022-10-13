@@ -14,6 +14,9 @@
               "chrome_android": {
                 "version_added": null
               },
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "12"
               },

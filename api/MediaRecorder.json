@@ -9,6 +9,9 @@
             "version_added": "47"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": "mirror",
           "firefox": {
             "version_added": "25",
@@ -51,6 +54,9 @@
               "version_added": "47"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -90,6 +96,9 @@
                 "version_added": "49"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "43"
@@ -124,6 +133,9 @@
               "version_added": "89"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -161,6 +173,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "71"
@@ -199,6 +214,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -239,6 +257,9 @@
               "notes": "The interface for this event is a plain <a href='https://developer.mozilla.org/docs/Web/API/Event'><code>Event</code></a>, not <a href='https://developer.mozilla.org/docs/Web/API/MediaRecorderErrorEvent'><code>MediaRecorderErrorEvent</code></a>. See <a href='https://crbug.com/1250432'>bug 1250432</a>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -276,6 +297,9 @@
               "version_added": "47"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -325,6 +349,9 @@
               }
             ],
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25",
@@ -369,6 +396,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -407,6 +437,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "65"
@@ -444,6 +477,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -481,6 +517,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -519,6 +558,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "65"
@@ -556,6 +598,9 @@
               "version_added": "47"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -598,6 +643,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -643,6 +691,9 @@
               }
             ],
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -684,6 +735,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -722,6 +776,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -767,6 +824,9 @@
               }
             ],
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25"
@@ -810,6 +870,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "71"
@@ -847,6 +910,9 @@
               "version_added": "49"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "25",

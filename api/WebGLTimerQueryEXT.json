@@ -9,6 +9,9 @@
             "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": "mirror",
           "firefox": {
             "version_added": "51",

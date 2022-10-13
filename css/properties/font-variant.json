@@ -10,6 +10,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "12"
             },
@@ -51,6 +54,9 @@
                 "version_added": "52"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "34"
@@ -85,6 +91,9 @@
                 "notes": "Some operating systems may correctly omit accents in all-uppercase Greek text."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false,
@@ -122,6 +131,9 @@
                 "version_added": "31"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "12"
               },
@@ -158,6 +170,9 @@
                 "notes": "Some operating systems may capitalize <code>ß</code> as <code>SS</code>."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false,

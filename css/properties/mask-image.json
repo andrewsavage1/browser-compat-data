@@ -12,6 +12,9 @@
               "notes": "From version 8, Chrome added support for gradient values. Initially, Chrome supported only <code>-webkit-</code> prefixed values for gradients (such as <code>-webkit-linear-gradient()</code>). Later, support for unprefixed values was added."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": [
               {
                 "prefix": "-webkit-",
@@ -76,6 +79,9 @@
                 "version_added": "1"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "18"
               },
@@ -116,6 +122,9 @@
                 "version_added": "8"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "18"
               },

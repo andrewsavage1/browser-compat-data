@@ -11,6 +11,9 @@
                 "version_added": "69"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": "1.0"
               },
@@ -55,6 +58,9 @@
                   "notes": "Constructing a <code>Global</code> with a value of <code>v128</code> produces a <code>TypeError</code>."
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "deno": {
                   "version_added": "1.0",
                   "notes": "Constructing a <code>Global</code> with a value of <code>v128</code> produces a <code>TypeError</code>."
@@ -100,6 +106,9 @@
                   "version_added": "69"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "deno": {
                   "version_added": "1.0"
                 },
@@ -143,6 +152,9 @@
                   "version_added": "69"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "deno": {
                   "version_added": "1.0"
                 },

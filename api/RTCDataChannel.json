@@ -9,6 +9,9 @@
             "version_added": "24"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": "mirror",
           "firefox": {
             "version_added": "22"
@@ -47,6 +50,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -84,6 +90,9 @@
                 "version_added": "24"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "22"
@@ -120,6 +129,9 @@
                 "notes": "See <a href='https://crbug.com/webrtc/2276'>Chrome WebRTC bug 2276</a>."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": false,
                 "notes": "See <a href='https://crbug.com/webrtc/2276'>Chrome WebRTC bug 2276</a>."
@@ -169,6 +181,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -213,6 +228,9 @@
               "notes": "The default for <code>rtcpMuxPolicy</code> is <code>require</code>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "44"
@@ -250,6 +268,9 @@
               "version_added": "46"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "44"
@@ -287,6 +308,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -330,6 +354,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -373,6 +400,9 @@
               "version_added": "81"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -414,6 +444,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -453,6 +486,9 @@
               "version_added": "30"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -492,6 +528,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -531,6 +570,9 @@
               "version_added": "56"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "62"
@@ -568,6 +610,9 @@
               "version_added": "30"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "62"
@@ -609,6 +654,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -648,6 +696,9 @@
               "version_added": "30"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "68"
@@ -689,6 +740,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -728,6 +782,9 @@
               "version_added": "30"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -766,6 +823,9 @@
               "version_added": false
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -803,6 +863,9 @@
               "version_added": "30"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -842,6 +905,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -880,6 +946,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -918,6 +987,9 @@
               "version_added": "58"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "63"
@@ -952,6 +1024,9 @@
               "version_added": "24"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "22"
@@ -992,6 +1067,9 @@
               "notes": "See <a href='https://crbug.com/1244165'>bug 1244165</a>"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false,

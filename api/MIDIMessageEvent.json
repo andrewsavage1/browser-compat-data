@@ -9,6 +9,9 @@
             "version_added": "43"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": "mirror",
           "firefox": [
             {
@@ -62,6 +65,9 @@
               "version_added": "43"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {
@@ -115,6 +121,9 @@
               "version_added": "43"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {

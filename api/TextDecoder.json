@@ -9,6 +9,9 @@
             "version_added": "38"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "deno": {
             "version_added": "1.0"
           },
@@ -67,6 +70,9 @@
               "version_added": "38"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -124,6 +130,9 @@
               "version_added": "38"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -164,6 +173,9 @@
               "version_added": "38"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0",
               "notes": "Before Deno 1.11, passing <code>option.stream</code> is not supported and results in an error being thrown."
@@ -223,6 +235,9 @@
               "version_added": "38"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -273,6 +288,9 @@
               "version_added": "38"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -316,6 +334,9 @@
               "version_added": "38"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },

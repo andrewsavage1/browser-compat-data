@@ -9,6 +9,9 @@
             "version_added": "51"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": {
             "version_added": "15"
           },
@@ -46,6 +49,9 @@
               "version_added": false
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "15",
               "version_removed": "79"
@@ -86,6 +92,9 @@
               "version_added": "51"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "15"
             },
@@ -125,6 +134,9 @@
               "version_added": "51"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "15"
             },
@@ -164,6 +176,9 @@
               "version_added": "51"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "15"
             },
@@ -203,6 +218,9 @@
               "version_added": "58"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "16"
             },
@@ -242,6 +260,9 @@
               "version_added": "51"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "15"
             },
@@ -281,6 +302,9 @@
               "version_added": "51"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "15"
             },
@@ -320,6 +344,9 @@
               "version_added": "51"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "15"
             },

@@ -11,6 +11,9 @@
               "notes": "Before Chrome 94, <code>outline</code> does not follow the shape of <code>border-radius</code>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "12",
               "notes": "Before Edge 94, <code>outline</code> does not follow the shape of <code>border-radius</code>."
@@ -68,6 +71,9 @@
                 "version_added": false
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "12",
                 "version_removed": "79"

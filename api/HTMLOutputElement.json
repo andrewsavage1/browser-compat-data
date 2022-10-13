@@ -9,6 +9,9 @@
             "version_added": "9"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": {
             "version_added": "14"
           },
@@ -53,6 +56,9 @@
               "version_added": false
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -87,6 +93,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -132,6 +141,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -177,6 +189,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -223,6 +238,9 @@
               "notes": "Before Chrome 50, this property returned the deprecated child <code>DOMSettableTokenList</code> instead of <code>DOMTokenList</code>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -265,6 +283,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "18"
             },
@@ -310,6 +331,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -355,6 +379,9 @@
               "version_added": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -394,6 +421,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -439,6 +469,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -480,6 +513,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -525,6 +561,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -570,6 +609,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -615,6 +657,9 @@
               "version_added": "9"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },

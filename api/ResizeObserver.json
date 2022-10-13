@@ -9,6 +9,9 @@
             "version_added": "64"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": "mirror",
           "firefox": {
             "version_added": "69"
@@ -46,6 +49,9 @@
               "version_added": "64"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "69"
@@ -83,6 +89,9 @@
               "version_added": "64"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "69"
@@ -120,6 +129,9 @@
               "version_added": "64"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "69"
@@ -156,6 +168,9 @@
                 "notes": "Before version 84, the <code>device-pixel-content-box</code> value is not supported."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "69",
@@ -192,6 +207,9 @@
               "version_added": "64"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "69"

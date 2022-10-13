@@ -13,6 +13,9 @@
               "version_added": "46",
               "notes": "Does not support <code>lang</code> or <code>scope</code>."
             },
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "79"
             },

@@ -10,6 +10,9 @@
             "notes": "See <a href='https://www.chromestatus.com/features/5716060992962560'>Chrome Platform Status</a>."
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": "mirror",
           "firefox": {
             "version_added": "1",

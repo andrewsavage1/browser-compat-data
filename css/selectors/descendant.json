@@ -12,6 +12,9 @@
               "notes": "Since Chrome 61, <code>&gt;&gt;&gt;</code> is aliased to this selector <a href='https://developers.google.com/web/updates/2017/06/chrome-60-deprecations#make_shadow-piercing_descendant_combinator_behave_like_descendent_combinator'>since its use as the 'shadow-piercing descendant combinator' was deprecated</a>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "12"
             },
@@ -50,6 +53,9 @@
                 "version_added": false
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false

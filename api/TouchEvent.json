@@ -9,6 +9,9 @@
             "version_added": "22"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": "mirror",
           "firefox": [
             {
@@ -58,6 +61,9 @@
               "notes": "Chrome only supports the following <code>touchEventInit</code> properties: <code>touches</code>, <code>targetTouches</code>, <code>changedTouches</code>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -99,6 +105,9 @@
               "version_added": "22"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {
@@ -147,6 +156,9 @@
               "version_added": "22"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {
@@ -195,6 +207,9 @@
               "version_added": "22"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {
@@ -243,6 +258,9 @@
               "version_added": "22"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {
@@ -291,6 +309,9 @@
               "version_added": "22"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {
@@ -339,6 +360,9 @@
               "version_added": "22"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {
@@ -387,6 +411,9 @@
               "version_added": "22"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": [
               {

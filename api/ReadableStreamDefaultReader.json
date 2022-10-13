@@ -9,6 +9,9 @@
             "version_added": "78"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "deno": [
             {
               "version_added": "1.7"
@@ -64,6 +67,9 @@
               "version_added": "78"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -107,6 +113,9 @@
               "version_added": "78"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -150,6 +159,9 @@
               "version_added": "78"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -193,6 +205,9 @@
               "version_added": "78"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -236,6 +251,9 @@
               "version_added": "78"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -277,6 +295,9 @@
                 "notes": "<code>releaseLock()</code> throws if there are pending read requests (rather than pending read requests being rejected)."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": false
               },

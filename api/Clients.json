@@ -9,6 +9,9 @@
             "version_added": "40"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": {
             "version_added": "17"
           },
@@ -47,6 +50,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "17"
             },
@@ -86,6 +92,9 @@
               "version_added": "51"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "17"
             },
@@ -126,6 +135,9 @@
               "notes": "<code>Client</code> objects returned in most recent focus order."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "17",
               "notes": "<code>Client</code> objects returned in most recent focus order."
@@ -178,6 +190,9 @@
                 "notes": "<code>Client</code> objects returned in most recent focus order."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "≤79",
                 "notes": "<code>Client</code> objects returned in most recent focus order."
@@ -225,6 +240,9 @@
               ]
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "17"
             },
