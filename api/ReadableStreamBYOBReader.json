@@ -269,6 +269,9 @@
                 "notes": "<code>releaseLock()</code> throws if there are pending read requests (rather than pending read requests being rejected)."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": false
               },

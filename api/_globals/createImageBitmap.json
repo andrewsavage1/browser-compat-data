@@ -48,6 +48,9 @@
               "version_added": "50"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": false
             },
@@ -84,6 +87,9 @@
               "version_added": "58"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": false
             },
@@ -120,6 +126,9 @@
               "version_added": "52"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": false
             },
@@ -156,6 +165,9 @@
               "version_added": "52"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": false
             },
@@ -192,6 +204,9 @@
               "version_added": "54"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": false
             },
@@ -228,6 +243,9 @@
               "version_added": "54"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": false
             },
@@ -264,6 +282,9 @@
               "version_added": "54"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": false
             },
@@ -300,6 +321,9 @@
               "version_added": "59"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": false
             },

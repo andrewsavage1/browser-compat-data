@@ -19,6 +19,9 @@
               "notes": "This follows MathML Core: Only the first child is rendered while the others have their <code>display</code> set to <code>none</code>. <code>actiontype</code> and <code>selection</code> attributes are ignored."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "1",
@@ -51,6 +54,9 @@
                 "version_added": false
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "1",
@@ -83,6 +89,9 @@
                   "version_added": false
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": "mirror",
                 "firefox": {
                   "version_added": "1",
@@ -116,6 +125,9 @@
                   "version_added": false
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": "mirror",
                 "firefox": [
                   {
@@ -157,6 +169,9 @@
                   "version_added": false
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": "mirror",
                 "firefox": {
                   "version_added": "1",
@@ -191,6 +206,9 @@
                 "version_added": false
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "1",

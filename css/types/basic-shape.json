@@ -11,6 +11,9 @@
               "version_added": "37"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "54"
@@ -44,6 +47,9 @@
                 "version_added": "37"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "54"
@@ -79,6 +85,9 @@
                 "version_added": "37"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "54"
@@ -114,6 +123,9 @@
                 "version_added": "37"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "54"
@@ -149,6 +161,9 @@
                 "version_added": "37"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "54"
@@ -186,6 +201,9 @@
                 "notes": "Only supported on the <code>offset-path</code> property."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": [
                 {
@@ -235,6 +253,9 @@
                 "version_added": "37"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "54"

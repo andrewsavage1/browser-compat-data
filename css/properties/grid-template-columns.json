@@ -61,6 +61,9 @@
                 "version_added": "106"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "66"
@@ -137,6 +140,9 @@
                 "version_added": false
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "77",
@@ -278,6 +284,9 @@
                 "notes": "See <a href='https://crbug.com/618969'>bug 618969</a>."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "71"

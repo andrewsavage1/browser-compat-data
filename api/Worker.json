@@ -161,6 +161,9 @@
                 "version_added": "80"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": "1.0"
               },
@@ -204,6 +207,9 @@
                 "notes": "See <a href='https://crbug.com/794548'>Chromium bug 794548</a>."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": false
               },
@@ -244,6 +250,9 @@
                 "version_added": "70"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": "1.0"
               },
@@ -287,6 +296,9 @@
                 "version_added": "80"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": "1.0",
                 "notes": "Only supports <code>module</code>"

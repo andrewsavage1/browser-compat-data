@@ -226,6 +226,9 @@
               "notes": "See <a href='https://crbug.com/1227424'>bug 1227424</a>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "91"
@@ -1002,6 +1005,9 @@
               "version_added": "10"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "12"
             },
@@ -1705,6 +1711,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "12"
             },
@@ -1750,6 +1759,9 @@
               "notes": "A <code>selectionchange</code> event is fired on <code>Document</code>, see <a href='https://developer.mozilla.org/docs/Web/API/Document/selectionchange_event'><code>Document</code>'s <code>selectionchange</code> event</a>. See <a href='https://crbug.com/1327098'>bug 1327098</a> for firing the event on <code>&lt;input&gt;</code> elements."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "92"
@@ -2076,6 +2088,9 @@
                 "version_added": "99"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false
@@ -2110,6 +2125,9 @@
                 "version_added": "99"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "101"
@@ -2144,6 +2162,9 @@
                 "version_added": "99"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false
@@ -2178,6 +2199,9 @@
                 "version_added": "99"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "101"
@@ -2212,6 +2236,9 @@
                 "version_added": "99"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "101"
@@ -2246,6 +2273,9 @@
                 "version_added": "99"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "101"
@@ -2280,6 +2310,9 @@
                 "version_added": "99"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false
@@ -2314,6 +2347,9 @@
                 "version_added": "99"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false
@@ -2348,6 +2384,9 @@
                 "version_added": "99"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false

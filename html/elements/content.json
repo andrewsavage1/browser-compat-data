@@ -13,6 +13,9 @@
               "version_added": "37",
               "version_removed": "89"
             },
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false

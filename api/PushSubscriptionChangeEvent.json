@@ -9,6 +9,9 @@
             "version_added": false
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "edge": {
             "version_added": "17",
             "version_removed": "79"
@@ -49,6 +52,9 @@
               "version_added": false
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "17",
               "version_removed": "79"
@@ -90,6 +96,9 @@
               "version_added": false
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "17",
               "version_removed": "79"

@@ -140,6 +140,9 @@
               "version_added": "62"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "67"
@@ -175,6 +178,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "15"
             },

@@ -12,6 +12,9 @@
               "notes": "Blink has support for parsing the <code>rb</code> element, but not for rendering <code>rb</code> content as expected."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "38"

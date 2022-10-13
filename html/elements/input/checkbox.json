@@ -12,6 +12,9 @@
                 "version_added": true
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "12"
               },

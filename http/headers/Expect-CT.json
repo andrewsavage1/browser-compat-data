@@ -11,6 +11,9 @@
               "notes": "Before later builds of Chrome 64, invalid Expect-CT reports would be sent. Newer versions do not send reports after 10 weeks from the build date. See <a href='https://crbug.com/786563'>bug 786563</a>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "≤79"
             },

@@ -11,6 +11,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "12"
             },
@@ -53,6 +56,9 @@
                 "version_added": "57"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "52"
@@ -87,6 +93,9 @@
                 "notes": "See <a href='https://crbug.com/304163'>bug 304163</a>."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false,

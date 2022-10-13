@@ -58,6 +58,9 @@
               "version_added": "17"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": false
             },

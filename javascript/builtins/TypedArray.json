@@ -316,6 +316,9 @@
                 "version_added": "7"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": "1.0"
               },
@@ -911,6 +914,9 @@
                 "notes": "Negative integers are not considered as indexed properties and therefore return the value of the prototype property."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": "1.0",
                 "notes": "Negative integers are not considered as indexed properties and therefore return the value of the prototype property."
@@ -1012,6 +1018,9 @@
                 "version_added": "39"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": "1.0"
               },
@@ -1340,6 +1349,9 @@
                 "version_added": "7"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": "1.0"
               },
@@ -1387,6 +1399,9 @@
                 "version_added": "7"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "deno": {
                 "version_added": "1.0"
               },

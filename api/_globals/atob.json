@@ -60,6 +60,9 @@
               "version_added": "30"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": true
             },

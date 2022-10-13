@@ -58,6 +58,9 @@
               "version_added": "55"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "12"
             },
@@ -431,6 +434,9 @@
                 "notes": "<code>movementX</code> and <code>movementY</code> are not fractional, see <a href='https://crbug.com/802067'>Chromium bug 802067</a>."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": [
                 {
                   "version_added": "79",

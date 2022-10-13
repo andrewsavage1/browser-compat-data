@@ -18,6 +18,9 @@
             "chrome_android": {
               "version_added": true
             },
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "14"
             },
@@ -70,6 +73,9 @@
                 "version_added": true
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "≤79"
               },
@@ -112,6 +118,9 @@
               "chrome_android": {
                 "version_added": true
               },
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "35"
@@ -149,6 +158,9 @@
                 "version_added": true
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "≤79"
               },
@@ -188,6 +200,9 @@
               },
               "chrome_android": {
                 "version_added": true
+              },
+              "cobalt": {
+                "version_added": null
               },
               "edge": {
                 "version_added": "15"
@@ -230,6 +245,9 @@
               },
               "chrome_android": {
                 "version_added": true
+              },
+              "cobalt": {
+                "version_added": null
               },
               "edge": {
                 "version_added": "14"
@@ -274,6 +292,9 @@
               "chrome_android": {
                 "version_added": true
               },
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "14"
               },
@@ -314,6 +335,9 @@
               "chrome_android": {
                 "version_added": true
               },
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "14"
               },
@@ -353,6 +377,9 @@
               },
               "chrome_android": {
                 "version_added": true
+              },
+              "cobalt": {
+                "version_added": null
               },
               "edge": {
                 "version_added": "15"
@@ -395,6 +422,9 @@
               },
               "chrome_android": {
                 "version_added": true
+              },
+              "cobalt": {
+                "version_added": null
               },
               "edge": {
                 "version_added": "15"
@@ -446,6 +476,9 @@
               "chrome_android": {
                 "version_added": true
               },
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "14"
               },
@@ -486,6 +519,9 @@
               "chrome_android": {
                 "version_added": true
               },
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "14"
               },
@@ -524,6 +560,9 @@
                 "version_added": true
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "79"
               },
@@ -564,6 +603,9 @@
               "chrome_android": {
                 "version_added": true
               },
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "14"
               },
@@ -601,6 +643,9 @@
                 "version_added": true
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "≤18"
               },
@@ -638,6 +683,9 @@
               },
               "chrome_android": {
                 "version_added": true
+              },
+              "cobalt": {
+                "version_added": null
               },
               "edge": {
                 "version_added": "14"
@@ -679,6 +727,9 @@
               "chrome_android": {
                 "version_added": true,
                 "version_removed": "90"
+              },
+              "cobalt": {
+                "version_added": null
               },
               "edge": {
                 "version_added": "15",
@@ -722,6 +773,9 @@
                 "notes": "See <a href='https://crbug.com/801561'>bug 801561</a>."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false,
@@ -758,6 +812,9 @@
                 "version_removed": "56"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "37",
@@ -797,6 +854,9 @@
                 "version_added": "59"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "≤79"
               },
@@ -833,6 +893,9 @@
                 "version_added": "70"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false
@@ -873,6 +936,9 @@
               "chrome_android": {
                 "version_added": true
               },
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "14"
               },
@@ -910,6 +976,9 @@
                 "version_added": "54"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false
@@ -944,6 +1013,9 @@
                 "version_added": "83"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false
@@ -979,6 +1051,9 @@
               },
               "chrome_android": {
                 "version_added": true
+              },
+              "cobalt": {
+                "version_added": null
               },
               "edge": {
                 "version_added": "14"
@@ -1020,6 +1095,9 @@
               "chrome_android": {
                 "version_added": true
               },
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "14"
               },
@@ -1056,6 +1134,9 @@
                   "version_added": "59"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": {
                   "version_added": "≤79"
                 },
@@ -1097,6 +1178,9 @@
                 "version_added": "75"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": [
                 {
@@ -1147,6 +1231,9 @@
                 "version_added": "75"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": [
                 {
@@ -1196,6 +1283,9 @@
                 "version_added": "52"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "52"
@@ -1233,6 +1323,9 @@
               },
               "chrome_android": {
                 "version_added": true
+              },
+              "cobalt": {
+                "version_added": null
               },
               "edge": {
                 "version_added": "14"
@@ -1272,6 +1365,9 @@
                 "version_added": "75"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": [
                 {
@@ -1322,6 +1418,9 @@
                 "version_added": "75"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": [
                 {
@@ -1372,6 +1471,9 @@
                 "version_added": "83"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false
@@ -1407,6 +1509,9 @@
                 "version_added": "69"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false,
@@ -1442,6 +1547,9 @@
                 "version_added": "43"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "17"
               },
@@ -1479,6 +1587,9 @@
                 "notes": "Chrome 59 and higher skips the deprecated <code>child-src</code> directive."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "79"
               },

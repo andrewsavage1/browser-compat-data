@@ -72,6 +72,9 @@
                 "version_added": "50"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "12"
               },
@@ -124,6 +127,9 @@
                   "version_added": false
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": "mirror",
                 "firefox": {
                   "version_added": "65",
@@ -159,6 +165,9 @@
                   "version_added": "102"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": "mirror",
                 "firefox": {
                   "version_added": false
@@ -208,6 +217,9 @@
                   "version_added": "102"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": [
                   {
                     "version_added": "102"
@@ -265,6 +277,9 @@
                   "version_added": "51"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": {
                   "version_added": "12"
                 },
@@ -306,6 +321,9 @@
                 "version_added": "50"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": null
+              },
               "edge": {
                 "version_added": "12"
               },
@@ -356,6 +374,9 @@
                   "version_added": false
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": {
                   "version_added": "12",
                   "version_removed": "79"
@@ -397,6 +418,9 @@
                   "version_added": "50"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": {
                   "version_added": "12"
                 },
@@ -436,6 +460,9 @@
                   "notes": "See <a href='https://crbug.com/538475'>bug 538475</a>."
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": null
+                },
                 "edge": "mirror",
                 "firefox": {
                   "version_added": false

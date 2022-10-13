@@ -9,6 +9,9 @@
             "version_added": "4"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": null
+          },
           "deno": {
             "version_added": "1.0"
           },
@@ -52,6 +55,9 @@
               "version_added": "69"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "97"
@@ -88,6 +94,9 @@
               "version_added": "4"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -137,6 +146,9 @@
               "version_added": "4"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -188,6 +200,9 @@
               "version_added": "60"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -230,6 +245,9 @@
               "version_added": "70"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -269,6 +287,9 @@
               "version_added": "4"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "deno": [
               {
                 "version_added": "1.14",
@@ -343,6 +364,9 @@
               "version_added": "69"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": null
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "97"
