@@ -65,7 +65,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "deno": {
               "version_added": "1.0"

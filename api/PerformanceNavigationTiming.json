@@ -10,7 +10,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": false
+            "version_added": "22.6.0"
           },
           "edge": {
             "version_added": "12"
@@ -51,7 +51,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "12"
@@ -92,7 +92,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "12"
@@ -133,7 +133,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "12"
@@ -215,7 +215,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "12"
@@ -256,7 +256,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "12"
@@ -379,7 +379,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "12"
@@ -420,7 +420,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "12"
@@ -461,7 +461,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "12"

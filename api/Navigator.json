@@ -1704,7 +1704,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "16"
@@ -2133,7 +2133,7 @@
               "version_added": "18"
             },
             "cobalt": {
-              "version_added": false
+              "version_added": "22.6.0"
             },
             "edge": {
               "version_added": "12"
