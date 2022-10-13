@@ -11,7 +11,8 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": "11.0"
+              "version_added": "11.0",
+              "version_removed": "20.6.0"
             },
             "edge": {
               "version_added": "12"

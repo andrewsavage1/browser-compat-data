@@ -273,7 +273,7 @@
               "version_added": "57"
             },
             "cobalt": {
-              "version_added": false
+              "version_added": "20.6.0"
             },
             "edge": "mirror",
             "firefox": {
