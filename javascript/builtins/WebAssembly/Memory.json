@@ -103,7 +103,7 @@
                     "version_added": false
                   },
                   "cobalt": {
-                    "version_added": null
+                    "version_added": false
                   },
                   "deno": {
                     "version_added": "1.10"

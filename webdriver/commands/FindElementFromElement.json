@@ -14,7 +14,7 @@
               "notes": "To enable Chromium support, include <code>{\"goog:chromeOptions\": {\"w3c\": true}}</code> in the <a href=https://developer.mozilla.org/docs/Web/WebDriver/Capabilities>capabilities</a>."
             },
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {

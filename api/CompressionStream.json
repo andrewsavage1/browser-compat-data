@@ -92,7 +92,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "deno": {
                 "version_added": "1.19"
@@ -134,7 +134,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "deno": {
                 "version_added": "1.23"
@@ -176,7 +176,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "deno": {
                 "version_added": "1.19"

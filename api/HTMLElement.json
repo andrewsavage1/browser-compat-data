@@ -1247,7 +1247,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": "mirror",
               "firefox": {
@@ -1286,7 +1286,7 @@
                 "notes": "See <a href='https://crbug.com/953169'>bug 953169</a>."
               },
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": {
                 "version_added": "17"

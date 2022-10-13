@@ -843,7 +843,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "deno": {
                 "version_added": false
@@ -888,7 +888,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "deno": {
                 "version_added": false
@@ -1834,7 +1834,7 @@
                 },
                 "chrome_android": "mirror",
                 "cobalt": {
-                  "version_added": null
+                  "version_added": false
                 },
                 "deno": {
                   "version_added": "1.0"
@@ -1980,7 +1980,7 @@
                 },
                 "chrome_android": "mirror",
                 "cobalt": {
-                  "version_added": null
+                  "version_added": false
                 },
                 "deno": [
                   {
@@ -2041,7 +2041,7 @@
                 },
                 "chrome_android": "mirror",
                 "cobalt": {
-                  "version_added": null
+                  "version_added": false
                 },
                 "deno": {
                   "version_added": "1.0"

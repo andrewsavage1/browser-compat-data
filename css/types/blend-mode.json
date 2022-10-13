@@ -14,7 +14,7 @@
               "version_added": "59"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {

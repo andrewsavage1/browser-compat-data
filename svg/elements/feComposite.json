@@ -13,7 +13,7 @@
               "version_added": true
             },
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": "≤18"
@@ -57,7 +57,7 @@
                 "version_added": true
               },
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": {
                 "version_added": "≤18",
@@ -101,7 +101,7 @@
                 "version_added": true
               },
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": {
                 "version_added": "≤18",
@@ -147,7 +147,7 @@
                 "version_added": true
               },
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": {
                 "version_added": "≤79"
@@ -192,7 +192,7 @@
                 "version_added": true
               },
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": {
                 "version_added": "≤79"
@@ -237,7 +237,7 @@
                 "version_added": true
               },
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": {
                 "version_added": "≤79"
@@ -282,7 +282,7 @@
                 "version_added": true
               },
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": {
                 "version_added": "≤79"
@@ -325,7 +325,7 @@
                 "version_added": true
               },
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": {
                 "version_added": "≤18"
@@ -364,7 +364,7 @@
                 },
                 "chrome_android": "mirror",
                 "cobalt": {
-                  "version_added": null
+                  "version_added": false
                 },
                 "edge": "mirror",
                 "firefox": {

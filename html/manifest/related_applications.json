@@ -13,7 +13,7 @@
               "version_added": "44"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": "79"
