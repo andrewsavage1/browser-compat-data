@@ -163,6 +163,7 @@
         "enum": [
           "chrome",
           "chrome_android",
+          "cobalt",
           "deno",
           "edge",
           "firefox",
