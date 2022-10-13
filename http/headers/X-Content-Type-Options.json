@@ -26,6 +26,9 @@
                 "partial_implementation": true
               }
             ],
+            "cobalt": {
+              "version_added": null
+            },
             "edge": {
               "version_added": "12"
             },
