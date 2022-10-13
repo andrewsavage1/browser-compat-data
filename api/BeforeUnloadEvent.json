@@ -10,7 +10,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": null
+            "version_added": "23.0.0"
           },
           "deno": {
             "version_added": "1.24"
@@ -37,9 +37,6 @@
           },
           "webview_android": {
             "version_added": "≤37"
-          },
-          "cobalt": {
-            "version_added": "23.0.0"
           }
         },
         "status": {
@@ -57,7 +54,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "deno": {
               "version_added": false
@@ -84,9 +81,6 @@
             },
             "webview_android": {
               "version_added": "≤37"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {

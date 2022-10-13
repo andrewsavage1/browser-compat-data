@@ -11,7 +11,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {
@@ -37,9 +37,6 @@
             "webview_android": {
               "version_added": "≤37",
               "alternative_name": "-webkit-font-smoothing"
-            },
-            "cobalt": {
-              "version_added": false
             }
           },
           "status": {

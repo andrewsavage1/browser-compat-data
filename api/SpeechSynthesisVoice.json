@@ -10,7 +10,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": null
+            "version_added": false
           },
           "edge": {
             "version_added": "14"
@@ -41,9 +41,6 @@
           "webview_android": {
             "version_added": false,
             "notes": "See <a href='https://crbug.com/487255'>bug 487255</a>."
-          },
-          "cobalt": {
-            "version_added": false
           }
         },
         "status": {
@@ -62,7 +59,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -91,9 +88,6 @@
               "version_added": "3.0"
             },
             "webview_android": {
-              "version_added": false
-            },
-            "cobalt": {
               "version_added": false
             }
           },
@@ -114,7 +108,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -143,9 +137,6 @@
               "version_added": "3.0"
             },
             "webview_android": {
-              "version_added": false
-            },
-            "cobalt": {
               "version_added": false
             }
           },
@@ -166,7 +157,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -195,9 +186,6 @@
               "version_added": "3.0"
             },
             "webview_android": {
-              "version_added": false
-            },
-            "cobalt": {
               "version_added": false
             }
           },
@@ -218,7 +206,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -247,9 +235,6 @@
               "version_added": "3.0"
             },
             "webview_android": {
-              "version_added": false
-            },
-            "cobalt": {
               "version_added": false
             }
           },
@@ -270,7 +255,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -299,9 +284,6 @@
               "version_added": "3.0"
             },
             "webview_android": {
-              "version_added": false
-            },
-            "cobalt": {
               "version_added": false
             }
           },

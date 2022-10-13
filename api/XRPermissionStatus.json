@@ -13,7 +13,7 @@
             "version_added": false
           },
           "cobalt": {
-            "version_added": null
+            "version_added": false
           },
           "edge": {
             "version_added": false
@@ -38,10 +38,7 @@
           },
           "safari_ios": "mirror",
           "samsunginternet_android": "mirror",
-          "webview_android": "mirror",
-          "cobalt": {
-            "version_added": false
-          }
+          "webview_android": "mirror"
         },
         "status": {
           "experimental": false,
@@ -59,7 +56,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {
@@ -77,10 +74,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": false
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,

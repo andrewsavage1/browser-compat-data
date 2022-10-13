@@ -12,7 +12,7 @@
             "version_added": "38"
           },
           "cobalt": {
-            "version_added": null
+            "version_added": "23.0.0"
           },
           "edge": "mirror",
           "firefox": {
@@ -37,9 +37,6 @@
           "samsunginternet_android": "mirror",
           "webview_android": {
             "version_added": "50"
-          },
-          "cobalt": {
-            "version_added": "23.0.0"
           }
         },
         "status": {
@@ -107,7 +104,7 @@
               "version_added": "38"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -132,9 +129,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "50"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -158,7 +152,7 @@
               "notes": "The value is never greater than 10 Mbps, as a non-standard anti-fingerprinting measure."
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -179,9 +173,6 @@
             "webview_android": {
               "version_added": "50",
               "notes": "The value is never greater than 10 Mbps, as a non-standard anti-fingerprinting measure."
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -204,7 +195,7 @@
               "version_added": "38"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": false
@@ -230,9 +221,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "50"
-            },
-            "cobalt": {
-              "version_added": false
             }
           },
           "status": {
@@ -254,7 +242,7 @@
               "version_added": "38"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -276,9 +264,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "50"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -302,7 +287,7 @@
               "notes": "The value is never greater than 3000 ms, as a non-standard anti-fingerprinting measure."
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -323,9 +308,6 @@
             "webview_android": {
               "version_added": "50",
               "notes": "The value is never greater than 3000 ms, as a non-standard anti-fingerprinting measure."
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -345,7 +327,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -363,10 +345,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": true,
@@ -388,7 +367,7 @@
               "version_added": "38"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": false
@@ -418,9 +397,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "50"
-            },
-            "cobalt": {
-              "version_added": false
             }
           },
           "status": {
@@ -444,7 +420,7 @@
               "notes": "Removal proposed in <a href='https://crbug.com/699892'>bug 699892</a>."
             },
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {
@@ -468,9 +444,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "50"
-            },
-            "cobalt": {
-              "version_added": false
             }
           },
           "status": {

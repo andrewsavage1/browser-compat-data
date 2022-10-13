@@ -11,7 +11,7 @@
             "version_added": "53"
           },
           "cobalt": {
-            "version_added": null
+            "version_added": "23.0.0"
           },
           "edge": {
             "version_added": "15"
@@ -35,9 +35,6 @@
           "samsunginternet_android": "mirror",
           "webview_android": {
             "version_added": false
-          },
-          "cobalt": {
-            "version_added": "23.0.0"
           }
         },
         "status": {
@@ -57,7 +54,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -81,9 +78,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -104,7 +98,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -128,9 +122,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -151,7 +142,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -175,9 +166,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -198,7 +186,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -222,9 +210,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -245,7 +230,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -269,9 +254,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -292,7 +274,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -316,9 +298,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -339,7 +318,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -363,9 +342,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -386,7 +362,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -410,9 +386,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -433,7 +406,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -457,9 +430,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -480,7 +450,7 @@
               "version_added": "53"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -504,9 +474,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -528,7 +495,7 @@
               "version_added": "55"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "15"
@@ -552,9 +519,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {

@@ -10,7 +10,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": null
+            "version_added": "23.0.0"
           },
           "edge": {
             "version_added": "14"
@@ -36,9 +36,6 @@
           "samsunginternet_android": "mirror",
           "webview_android": {
             "version_added": "3"
-          },
-          "cobalt": {
-            "version_added": "23.0.0"
           }
         },
         "status": {
@@ -94,7 +91,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -120,9 +117,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -142,7 +136,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -168,9 +162,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -190,7 +181,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -216,9 +207,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -239,7 +227,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -262,9 +250,6 @@
             "webview_android": {
               "version_added": "3",
               "notes": "Before Chrome 50, this property returned the deprecated child <code>DOMSettableTokenList</code> instead of <code>DOMTokenList</code>."
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -284,7 +269,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "18"
@@ -310,9 +295,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -332,7 +314,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -358,9 +340,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -380,7 +359,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -400,10 +379,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -422,7 +398,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -448,9 +424,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -470,7 +443,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -492,9 +465,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -514,7 +484,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -540,9 +510,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -562,7 +529,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -588,9 +555,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -610,7 +574,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -636,9 +600,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -658,7 +619,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "14"
@@ -684,9 +645,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {

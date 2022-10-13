@@ -11,7 +11,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": {
               "version_added": "12"
@@ -45,10 +45,7 @@
                 "prefix": "-webkit-",
                 "version_added": "4"
               }
-            ],
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            ]
           },
           "status": {
             "experimental": false,

@@ -10,7 +10,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": null
+            "version_added": "23.0.0"
           },
           "edge": "mirror",
           "firefox": {
@@ -48,9 +48,6 @@
           "samsunginternet_android": "mirror",
           "webview_android": {
             "version_added": "≤37"
-          },
-          "cobalt": {
-            "version_added": "23.0.0"
           }
         },
         "status": {
@@ -69,7 +66,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {
@@ -97,9 +94,6 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
-            },
-            "cobalt": {
-              "version_added": false
             }
           },
           "status": {
@@ -156,7 +150,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -192,10 +186,7 @@
               }
             ],
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -218,7 +209,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -257,9 +248,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
-            },
-            "cobalt": {
-              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -279,7 +267,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -315,10 +303,7 @@
               }
             ],
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,

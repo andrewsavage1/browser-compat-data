@@ -18,7 +18,7 @@
             ],
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": [
               {
@@ -110,10 +110,7 @@
                 "prefix": "-webkit-",
                 "notes": "WebView accepts alternate synonyms to its values: <code>padding</code>, <code>border</code>, and <code>content</code>."
               }
-            ],
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            ]
           },
           "status": {
             "experimental": false,
@@ -130,7 +127,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": "23.0.0"
               },
               "edge": {
                 "version_added": "12"
@@ -161,9 +158,6 @@
               "samsunginternet_android": "mirror",
               "webview_android": {
                 "version_added": "4"
-              },
-              "cobalt": {
-                "version_added": "23.0.0"
               }
             },
             "status": {
@@ -187,7 +181,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": [
                 {
@@ -231,9 +225,6 @@
                   "This value is supported with the prefixed version of the property only.",
                   "According to the <a href='https://webkit.org/blog/164/background-clip-text/'>WebKit blog</a>, text decorations or shadows are not included in the clipping."
                 ]
-              },
-              "cobalt": {
-                "version_added": false
               }
             },
             "status": {

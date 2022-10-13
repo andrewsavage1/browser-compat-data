@@ -13,7 +13,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {
@@ -42,9 +42,6 @@
               "prefix": "-webkit-",
               "version_added": "2",
               "notes": "The <code>margin-box</code> value is unsupported."
-            },
-            "cobalt": {
-              "version_added": false
             }
           },
           "status": {
@@ -62,7 +59,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": "mirror",
               "firefox": {
@@ -81,10 +78,7 @@
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "cobalt": {
-                "version_added": false
-              }
+              "webview_android": "mirror"
             },
             "status": {
               "experimental": true,
@@ -103,7 +97,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": "mirror",
               "firefox": {
@@ -125,9 +119,6 @@
               "webview_android": {
                 "prefix": "-webkit-",
                 "version_added": "2"
-              },
-              "cobalt": {
-                "version_added": false
               }
             },
             "status": {
@@ -146,7 +137,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": "mirror",
               "firefox": {
@@ -165,10 +156,7 @@
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "cobalt": {
-                "version_added": false
-              }
+              "webview_android": "mirror"
             },
             "status": {
               "experimental": true,
@@ -186,7 +174,7 @@
               },
               "chrome_android": "mirror",
               "cobalt": {
-                "version_added": null
+                "version_added": false
               },
               "edge": "mirror",
               "firefox": {
@@ -205,10 +193,7 @@
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "cobalt": {
-                "version_added": false
-              }
+              "webview_android": "mirror"
             },
             "status": {
               "experimental": true,

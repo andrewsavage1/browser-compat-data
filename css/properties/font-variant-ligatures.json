@@ -19,7 +19,7 @@
               "version_added": "34"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -67,10 +67,7 @@
                 "prefix": "-webkit-",
                 "version_added": "4.4"
               }
-            ],
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            ]
           },
           "status": {
             "experimental": false,

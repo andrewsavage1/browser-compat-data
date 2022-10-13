@@ -11,7 +11,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "prefix": "-webkit-",
@@ -53,9 +53,6 @@
             "webview_android": {
               "prefix": "-webkit-",
               "version_added": "≤37"
-            },
-            "cobalt": {
-              "version_added": false
             }
           },
           "status": {

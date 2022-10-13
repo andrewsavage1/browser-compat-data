@@ -22,6 +22,9 @@
             "version_removed": "65",
             "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
           },
+          "cobalt": {
+            "version_added": "23.0.0"
+          },
           "edge": "mirror",
           "firefox": {
             "version_added": "51",
@@ -42,10 +45,7 @@
           },
           "safari_ios": "mirror",
           "samsunginternet_android": "mirror",
-          "webview_android": "mirror",
-          "cobalt": {
-            "version_added": "23.0.0"
-          }
+          "webview_android": "mirror"
         },
         "status": {
           "experimental": false,
@@ -75,6 +75,9 @@
               "version_removed": "65",
               "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
             },
+            "cobalt": {
+              "version_added": "23.0.0"
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "51",
@@ -95,10 +98,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -129,6 +129,9 @@
               "version_removed": "65",
               "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
             },
+            "cobalt": {
+              "version_added": "23.0.0"
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "51",
@@ -149,10 +152,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -183,6 +183,9 @@
               "version_removed": "65",
               "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
             },
+            "cobalt": {
+              "version_added": "23.0.0"
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "51",
@@ -203,10 +206,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -237,6 +237,9 @@
               "version_removed": "65",
               "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
             },
+            "cobalt": {
+              "version_added": "23.0.0"
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "51",
@@ -257,10 +260,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -291,6 +291,9 @@
               "version_removed": "65",
               "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
             },
+            "cobalt": {
+              "version_added": "23.0.0"
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "51",
@@ -311,10 +314,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -345,6 +345,9 @@
               "version_removed": "65",
               "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
             },
+            "cobalt": {
+              "version_added": "23.0.0"
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "51",
@@ -365,10 +368,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -399,6 +399,9 @@
               "version_removed": "65",
               "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
             },
+            "cobalt": {
+              "version_added": "23.0.0"
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "51",
@@ -419,10 +422,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -453,6 +453,9 @@
               "version_removed": "65",
               "notes": "Removed due to the <a href='https://www.vusec.net/projects/glitch/'>GLitch exploit</a>."
             },
+            "cobalt": {
+              "version_added": "23.0.0"
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "51",
@@ -473,10 +476,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,

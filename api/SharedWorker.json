@@ -12,7 +12,7 @@
             "version_added": false
           },
           "cobalt": {
-            "version_added": null
+            "version_added": "23.0.0"
           },
           "edge": "mirror",
           "firefox": {
@@ -54,10 +54,7 @@
             "version_added": "4.0",
             "version_removed": "5.0"
           },
-          "webview_android": "mirror",
-          "cobalt": {
-            "version_added": "23.0.0"
-          }
+          "webview_android": "mirror"
         },
         "status": {
           "experimental": false,
@@ -78,7 +75,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -120,10 +117,7 @@
               "version_added": "4.0",
               "version_removed": "5.0"
             },
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -220,7 +214,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -262,10 +256,7 @@
               "version_added": "4.0",
               "version_removed": "5.0"
             },
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,
@@ -286,7 +277,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -328,10 +319,7 @@
               "version_added": "4.0",
               "version_removed": "5.0"
             },
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,

@@ -11,7 +11,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": null
+            "version_added": false
           },
           "edge": "mirror",
           "firefox": {
@@ -49,9 +49,6 @@
             "version_added": "≤37",
             "version_removed": "57",
             "notes": "See <a href='https://www.chromestatus.com/features/5716060992962560'>Chrome Platform Status</a>."
-          },
-          "cobalt": {
-            "version_added": false
           }
         },
         "status": {

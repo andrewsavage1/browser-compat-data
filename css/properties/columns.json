@@ -19,7 +19,7 @@
               "version_added": "50"
             },
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": [
               {
@@ -100,10 +100,7 @@
                 "prefix": "-webkit-",
                 "version_added": "2"
               }
-            ],
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            ]
           },
           "status": {
             "experimental": false,

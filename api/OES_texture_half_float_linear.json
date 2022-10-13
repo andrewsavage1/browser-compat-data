@@ -10,7 +10,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": null
+            "version_added": false
           },
           "edge": {
             "version_added": "14"
@@ -34,10 +34,7 @@
           "samsunginternet_android": {
             "version_added": "1.5"
           },
-          "webview_android": "mirror",
-          "cobalt": {
-            "version_added": false
-          }
+          "webview_android": "mirror"
         },
         "status": {
           "experimental": false,

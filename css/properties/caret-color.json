@@ -11,7 +11,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": "23.0.0"
             },
             "edge": "mirror",
             "firefox": {
@@ -33,10 +33,7 @@
               "notes": "While the property is recognized, implementation is incomplete. The color of the caret does not always match the color set for the element in focus. See <a href='https://webkit.org/b/177489'>bug 177489</a>."
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": "23.0.0"
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": false,

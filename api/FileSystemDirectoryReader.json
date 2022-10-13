@@ -10,7 +10,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": null
+            "version_added": false
           },
           "edge": {
             "version_added": "≤18"
@@ -34,9 +34,6 @@
           "samsunginternet_android": "mirror",
           "webview_android": {
             "version_added": "≤37"
-          },
-          "cobalt": {
-            "version_added": false
           }
         },
         "status": {
@@ -55,7 +52,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {
@@ -77,9 +74,6 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
-            },
-            "cobalt": {
-              "version_added": false
             }
           },
           "status": {

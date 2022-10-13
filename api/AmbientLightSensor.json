@@ -17,7 +17,7 @@
           },
           "chrome_android": "mirror",
           "cobalt": {
-            "version_added": null
+            "version_added": false
           },
           "edge": "mirror",
           "firefox": {
@@ -35,10 +35,7 @@
           },
           "safari_ios": "mirror",
           "samsunginternet_android": "mirror",
-          "webview_android": "mirror",
-          "cobalt": {
-            "version_added": false
-          }
+          "webview_android": "mirror"
         },
         "status": {
           "experimental": true,
@@ -57,7 +54,7 @@
             },
             "chrome_android": "mirror",
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {
@@ -81,9 +78,6 @@
             },
             "webview_android": {
               "version_added": false
-            },
-            "cobalt": {
-              "version_added": false
             }
           },
           "status": {
@@ -106,7 +100,7 @@
               "version_added": false
             },
             "cobalt": {
-              "version_added": null
+              "version_added": false
             },
             "edge": {
               "version_added": "79"
@@ -126,10 +120,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror",
-            "cobalt": {
-              "version_added": false
-            }
+            "webview_android": "mirror"
           },
           "status": {
             "experimental": true,
