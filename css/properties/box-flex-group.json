@@ -42,6 +42,9 @@
               "version_added": "≤37",
               "version_removed": "67",
               "prefix": "-webkit-"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {

@@ -27,7 +27,10 @@
           "samsunginternet_android": {
             "version_added": false
           },
-          "webview_android": "mirror"
+          "webview_android": "mirror",
+          "cobalt": {
+            "version_added": false
+          }
         },
         "status": {
           "experimental": false,
@@ -62,7 +65,10 @@
             "samsunginternet_android": {
               "version_added": false
             },
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -98,7 +104,10 @@
             "samsunginternet_android": {
               "version_added": false
             },
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -134,7 +143,10 @@
             "samsunginternet_android": {
               "version_added": false
             },
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -170,7 +182,10 @@
             "samsunginternet_android": {
               "version_added": false
             },
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -241,7 +256,10 @@
             "samsunginternet_android": {
               "version_added": false
             },
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,

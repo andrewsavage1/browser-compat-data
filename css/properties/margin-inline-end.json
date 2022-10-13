@@ -60,7 +60,10 @@
                 "version_added": "2",
                 "alternative_name": "-webkit-margin-end"
               }
-            ]
+            ],
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,

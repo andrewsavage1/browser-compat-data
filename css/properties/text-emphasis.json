@@ -47,6 +47,9 @@
             "webview_android": {
               "prefix": "-webkit-",
               "version_added": "4.4"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {

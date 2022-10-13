@@ -38,6 +38,9 @@
           "webview_android": {
             "version_added": false,
             "notes": "See <a href='https://crbug.com/487255'>bug 487255</a>."
+          },
+          "cobalt": {
+            "version_added": "23.0.0"
           }
         },
         "status": {
@@ -83,6 +86,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -129,6 +135,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -180,6 +189,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -226,6 +238,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -272,6 +287,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -318,6 +336,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -364,6 +385,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -410,6 +434,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -460,6 +487,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {

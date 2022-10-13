@@ -54,7 +54,10 @@
           },
           "safari_ios": "mirror",
           "samsunginternet_android": "mirror",
-          "webview_android": "mirror"
+          "webview_android": "mirror",
+          "cobalt": {
+            "version_added": false
+          }
         },
         "status": {
           "experimental": false,
@@ -116,7 +119,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -179,7 +185,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -242,7 +251,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -305,7 +317,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -368,7 +383,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -428,7 +446,10 @@
               "notes": "Exposed in Mobile Safari on iPad but not on iPhone."
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,

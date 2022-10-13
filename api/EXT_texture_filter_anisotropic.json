@@ -47,7 +47,10 @@
               "prefix": "WEBKIT_"
             }
           ],
-          "webview_android": "mirror"
+          "webview_android": "mirror",
+          "cobalt": {
+            "version_added": "23.0.0"
+          }
         },
         "status": {
           "experimental": false,

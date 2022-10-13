@@ -36,6 +36,9 @@
           "samsunginternet_android": "mirror",
           "webview_android": {
             "version_added": "≤37"
+          },
+          "cobalt": {
+            "version_added": "23.0.0"
           }
         },
         "status": {
@@ -118,7 +121,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -164,7 +170,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -207,7 +216,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -260,7 +272,10 @@
                 "notes": "The <code>onbeforeinstallprompt</code> event handler property is not supported."
               }
             ],
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -300,7 +315,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -346,7 +364,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -514,7 +535,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -564,6 +588,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -614,7 +641,10 @@
             ],
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -648,7 +678,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -687,7 +720,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -729,7 +765,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -774,7 +813,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -814,7 +856,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -863,6 +908,9 @@
             "webview_android": {
               "version_added": "1",
               "notes": "Starting with Chrome 46, this method is blocked inside an <code>&lt;iframe&gt;</code> unless its sandbox attribute has the value <code>allow-modals</code>."
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -898,7 +946,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": true,
@@ -932,7 +983,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -986,7 +1040,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -1028,7 +1085,10 @@
               "version_added": "4.2"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1083,6 +1143,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -1118,7 +1181,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1160,7 +1226,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1208,7 +1277,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -1248,7 +1320,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1344,6 +1419,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -1384,7 +1462,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1451,6 +1532,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "4.4.3"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -1486,7 +1570,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1529,7 +1616,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1579,6 +1669,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -1621,7 +1714,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1661,7 +1757,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1694,7 +1793,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -1761,7 +1863,10 @@
               "version_added": false
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -1828,7 +1933,10 @@
               "version_added": false
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -1871,7 +1979,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -1945,7 +2056,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -2011,7 +2125,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -2051,7 +2168,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2106,6 +2226,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -2146,7 +2269,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2193,7 +2319,10 @@
               "notes": "This property returns the height of the <a href='https://developer.mozilla.org/docs/Glossary/visual_viewport'>visual viewport</a> instead of the layout viewport. See <a href='https://webkit.org/b/174362'>this bug</a> for details."
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2240,7 +2369,10 @@
               "notes": "This property returns the width of the <a href='https://developer.mozilla.org/docs/Glossary/visual_viewport'>visual viewport</a> instead of the layout viewport. See <a href='https://webkit.org/b/174362'>this bug</a> for details."
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2282,7 +2414,10 @@
             "samsunginternet_android": {
               "version_added": "4.0"
             },
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2315,7 +2450,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -2355,7 +2493,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2402,7 +2543,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2461,6 +2605,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -2512,7 +2659,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2550,7 +2700,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2592,6 +2745,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "3"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -2630,7 +2786,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2674,7 +2833,10 @@
               "version_added": "4"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2717,7 +2879,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2757,7 +2922,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2797,7 +2965,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2830,7 +3001,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -2863,7 +3037,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -2904,7 +3081,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -2939,7 +3119,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -3024,7 +3207,10 @@
             ],
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -3068,6 +3254,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -3112,6 +3301,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -3155,7 +3347,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -3301,7 +3496,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -3341,7 +3539,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -3385,6 +3586,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -3430,6 +3634,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -3471,6 +3678,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "90"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -3513,7 +3723,10 @@
               "version_added": "3"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -3555,7 +3768,10 @@
               "version_added": "3"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -3598,6 +3814,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -3641,6 +3860,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -3681,7 +3903,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -3721,7 +3946,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -3761,7 +3989,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -3803,7 +4034,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -3852,6 +4086,9 @@
             "webview_android": {
               "version_added": "≤37",
               "notes": "Before version 37, WebView would fire a <code>popstate</code> event on page load."
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -3907,6 +4144,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -3996,7 +4236,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4043,7 +4286,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4076,7 +4322,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -4116,7 +4365,10 @@
               "version_added": "11.3"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4156,7 +4408,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4238,7 +4493,10 @@
                 "version_added": "≤37",
                 "prefix": "webkit"
               }
-            ]
+            ],
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4279,6 +4537,9 @@
             "webview_android": {
               "version_added": "37",
               "prefix": "webkit"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -4313,7 +4574,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4362,6 +4626,9 @@
             "webview_android": {
               "version_added": "1",
               "notes": "WebView does not fire a <code>resize</code> event on page load."
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -4405,7 +4672,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4448,7 +4718,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4486,7 +4759,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -4526,7 +4802,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4566,7 +4845,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4606,7 +4888,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4647,7 +4932,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4688,7 +4976,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4728,7 +5019,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4870,7 +5164,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -4910,7 +5207,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -5043,7 +5343,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -5076,7 +5379,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -5109,7 +5415,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -5142,7 +5451,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -5182,7 +5494,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -5359,7 +5674,10 @@
             ],
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -5471,7 +5789,10 @@
             ],
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -5548,7 +5869,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -5593,6 +5917,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -5635,7 +5962,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -5668,7 +5998,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -5704,7 +6037,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": true,
@@ -5748,7 +6084,10 @@
               "version_added": false
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -5784,7 +6123,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": true,
@@ -5820,7 +6162,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": true,
@@ -5856,7 +6201,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -5897,6 +6245,9 @@
             "webview_android": {
               "version_added": false,
               "notes": "See <a href='https://crbug.com/487255'>bug 487255</a>."
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -5937,7 +6288,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -5975,7 +6329,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -6017,7 +6374,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -6061,6 +6421,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -6099,6 +6462,9 @@
             "samsunginternet_android": "mirror",
             "webview_android": {
               "version_added": "≤37"
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -6137,7 +6503,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -6182,7 +6551,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -6225,7 +6597,10 @@
               "version_added": "11.3"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -6274,7 +6649,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -6307,7 +6685,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -6354,7 +6735,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -6390,7 +6774,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -6448,7 +6835,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -6485,7 +6875,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -6547,7 +6940,10 @@
               "version_removed": "13.0",
               "notes": "Supported on Samsung Internet for GearVR."
             },
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -6605,7 +7001,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -6677,6 +7076,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -6714,7 +7116,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -6751,7 +7156,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -6788,7 +7196,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -6860,6 +7271,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -6902,6 +7316,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "39"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -6944,6 +7361,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "39"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -6986,7 +7406,10 @@
               "version_added": "1"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,

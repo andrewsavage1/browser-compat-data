@@ -31,7 +31,10 @@
           },
           "safari_ios": "mirror",
           "samsunginternet_android": "mirror",
-          "webview_android": "mirror"
+          "webview_android": "mirror",
+          "cobalt": {
+            "version_added": "23.0.0"
+          }
         },
         "status": {
           "experimental": false,
@@ -77,6 +80,9 @@
             "webview_android": {
               "version_added": "≤37",
               "notes": "Since WebView 59, method parameters are required instead of optional."
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -117,7 +123,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -164,6 +173,9 @@
             "webview_android": {
               "version_added": "≤37",
               "notes": "Since WebView 59, method parameters are required instead of optional."
+            },
+            "cobalt": {
+              "version_added": "23.0.0"
             }
           },
           "status": {
@@ -208,7 +220,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,

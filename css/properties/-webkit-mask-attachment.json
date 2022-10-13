@@ -30,6 +30,9 @@
             "webview_android": {
               "version_added": "2",
               "version_removed": "4.4"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {

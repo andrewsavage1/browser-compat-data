@@ -63,6 +63,9 @@
               "prefix": "-webkit-",
               "version_added": "≤37",
               "notes": "This property is only supported for inline elements."
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {

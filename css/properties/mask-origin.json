@@ -39,6 +39,9 @@
               "prefix": "-webkit-",
               "version_added": "2",
               "notes": "The <code>margin-box</code> value is unsupported."
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -72,7 +75,10 @@
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
-              "webview_android": "mirror"
+              "webview_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              }
             },
             "status": {
               "experimental": true,
@@ -110,6 +116,9 @@
               "webview_android": {
                 "prefix": "-webkit-",
                 "version_added": "2"
+              },
+              "cobalt": {
+                "version_added": false
               }
             },
             "status": {
@@ -144,7 +153,10 @@
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
-              "webview_android": "mirror"
+              "webview_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              }
             },
             "status": {
               "experimental": true,
@@ -178,7 +190,10 @@
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
-              "webview_android": "mirror"
+              "webview_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              }
             },
             "status": {
               "experimental": true,

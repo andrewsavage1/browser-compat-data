@@ -29,7 +29,10 @@
             "version_added": "4.2"
           },
           "samsunginternet_android": "mirror",
-          "webview_android": "mirror"
+          "webview_android": "mirror",
+          "cobalt": {
+            "version_added": "23.0.0"
+          }
         },
         "status": {
           "experimental": false,
@@ -65,7 +68,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -103,7 +109,10 @@
               "version_added": "4.2"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -141,7 +150,10 @@
               "version_added": "4.2"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -179,7 +191,10 @@
               "version_added": "4.2"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -214,7 +229,10 @@
               "version_added": "14.5"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -252,7 +270,10 @@
               "version_added": "4.2"
             },
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,

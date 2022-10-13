@@ -38,6 +38,9 @@
           "webview_android": {
             "version_added": false,
             "notes": "See <a href='https://crbug.com/487255'>bug 487255</a>."
+          },
+          "cobalt": {
+            "version_added": false
           }
         },
         "status": {
@@ -82,6 +85,9 @@
               "version_added": "3.0"
             },
             "webview_android": {
+              "version_added": false
+            },
+            "cobalt": {
               "version_added": false
             }
           },
@@ -129,6 +135,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -174,6 +183,9 @@
               "version_added": "3.0"
             },
             "webview_android": {
+              "version_added": false
+            },
+            "cobalt": {
               "version_added": false
             }
           },
@@ -221,6 +233,9 @@
             },
             "webview_android": {
               "version_added": false
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -266,6 +281,9 @@
               "version_added": "3.0"
             },
             "webview_android": {
+              "version_added": false
+            },
+            "cobalt": {
               "version_added": false
             }
           },

@@ -31,6 +31,9 @@
           "webview_android": {
             "version_added": "2",
             "version_removed": "39"
+          },
+          "cobalt": {
+            "version_added": false
           }
         },
         "status": {
@@ -69,6 +72,9 @@
             "webview_android": {
               "version_added": "2",
               "version_removed": "39"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -108,6 +114,9 @@
             "webview_android": {
               "version_added": "2",
               "version_removed": "39"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {

@@ -34,7 +34,10 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": "mirror"
+            "webview_android": "mirror",
+            "cobalt": {
+              "version_added": "23.0.0"
+            }
           },
           "status": {
             "experimental": false,
@@ -83,6 +86,9 @@
               "webview_android": {
                 "version_added": "37",
                 "notes": "Chrome uses <code>auto</code> as the initial value for <code>min-width</code>."
+              },
+              "cobalt": {
+                "version_added": "23.0.0"
               }
             },
             "status": {
@@ -143,7 +149,10 @@
                   "prefix": "-webkit-",
                   "version_added": "≤37"
                 }
-              ]
+              ],
+              "cobalt": {
+                "version_added": "23.0.0"
+              }
             },
             "status": {
               "experimental": false,
@@ -182,7 +191,10 @@
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
-              "webview_android": "mirror"
+              "webview_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              }
             },
             "status": {
               "experimental": true,
@@ -243,7 +255,10 @@
                   "prefix": "-webkit-",
                   "version_added": "≤37"
                 }
-              ]
+              ],
+              "cobalt": {
+                "version_added": "23.0.0"
+              }
             },
             "status": {
               "experimental": false,
@@ -325,7 +340,10 @@
               ],
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
-              "webview_android": "mirror"
+              "webview_android": "mirror",
+              "cobalt": {
+                "version_added": "23.0.0"
+              }
             },
             "status": {
               "experimental": false,
@@ -359,7 +377,10 @@
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
-              "webview_android": "mirror"
+              "webview_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              }
             },
             "status": {
               "experimental": true,

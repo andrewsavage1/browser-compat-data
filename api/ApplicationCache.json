@@ -40,6 +40,9 @@
           "webview_android": {
             "version_added": "≤37",
             "version_removed": "85"
+          },
+          "cobalt": {
+            "version_added": false
           }
         },
         "status": {
@@ -79,6 +82,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -123,6 +129,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -167,6 +176,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -211,6 +223,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -255,6 +270,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -299,6 +317,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -343,6 +364,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -387,6 +411,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -436,6 +463,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -485,6 +515,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -534,6 +567,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
@@ -578,6 +614,9 @@
             "webview_android": {
               "version_added": "≤37",
               "version_removed": "85"
+            },
+            "cobalt": {
+              "version_added": false
             }
           },
           "status": {
