@@ -9,6 +9,9 @@
             "version_removed": "40"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": false
+          },
           "edge": "mirror",
           "firefox": {
             "version_added": "1",
@@ -51,6 +54,9 @@
               "version_removed": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "20",
@@ -88,6 +94,9 @@
               "version_removed": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "20",
@@ -131,6 +140,9 @@
               "version_removed": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "20",
@@ -168,6 +180,9 @@
               "version_removed": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "20",
@@ -205,6 +220,9 @@
               "version_removed": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "20",
@@ -241,6 +259,9 @@
               "version_added": false
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "20",
@@ -276,6 +297,9 @@
               "version_removed": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "20",
@@ -313,6 +337,9 @@
               "version_removed": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "20",

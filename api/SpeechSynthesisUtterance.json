@@ -9,6 +9,9 @@
             "version_added": "33"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": "11.0"
+          },
           "edge": {
             "version_added": "14"
           },
@@ -56,6 +59,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -110,6 +116,9 @@
               "partial_implementation": true,
               "notes": "The <code>boundary</code> event does not fire as expected. See <a href='https://crbug.com/1122143'>bug 1122143</a>."
             },
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -160,6 +169,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -210,6 +222,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -256,6 +271,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -306,6 +324,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -356,6 +377,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -402,6 +426,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -448,6 +475,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -498,6 +528,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -548,6 +581,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -594,6 +630,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -640,6 +679,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -686,6 +728,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },

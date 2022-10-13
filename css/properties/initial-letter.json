@@ -11,6 +11,9 @@
               "notes": "See <a href='https://crbug.com/1276900'>bug 1276900</a>."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false,

@@ -10,6 +10,9 @@
               "version_added": "25"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "12"
             },

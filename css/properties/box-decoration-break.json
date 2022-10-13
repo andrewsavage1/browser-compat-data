@@ -16,6 +16,9 @@
               "version_added": "18",
               "notes": "This property is only supported for inline elements."
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": [
               {

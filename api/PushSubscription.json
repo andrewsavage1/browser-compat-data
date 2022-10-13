@@ -9,6 +9,9 @@
             "version_added": "42"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": false
+          },
           "edge": {
             "version_added": "17"
           },
@@ -53,6 +56,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "17"
             },
@@ -97,6 +103,9 @@
               "version_added": "60"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "17"
             },
@@ -140,6 +149,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "17"
             },
@@ -184,6 +196,9 @@
               "version_added": "54"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "17"
             },
@@ -227,6 +242,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "≤18"
             },
@@ -267,6 +285,9 @@
             },
             "chrome_android": {
               "version_added": "50"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "17"
@@ -314,6 +335,9 @@
             },
             "chrome_android": {
               "version_added": "50"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "17"

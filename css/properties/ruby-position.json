@@ -17,6 +17,9 @@
               }
             ],
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": [
               {
                 "version_added": "84"
@@ -68,6 +71,9 @@
                 "notes": "See <a href='https://crbug.com/1191394'>bug 1191394</a>."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": "88"
@@ -102,6 +108,9 @@
                 "notes": "See <a href='https://crbug.com/1258284'>bug 1258284</a>."
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              },
               "edge": "mirror",
               "firefox": {
                 "version_added": false,

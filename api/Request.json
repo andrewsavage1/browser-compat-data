@@ -17,6 +17,9 @@
             }
           ],
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": "11.0"
+          },
           "deno": {
             "version_added": "1.0"
           },
@@ -80,6 +83,9 @@
               "notes": "From Chrome 47, default values for the <code>init</code> argument's properties changed. <code>mode</code> defaults to <code>same-origin</code> (from <code>no-cors</code>). <code>credentials</code> defaults to <code>include</code> (from <code>same-origin</code>). <code>redirect</code> defaults to <code>follow</code> (from <code>manual</code>)."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0",
               "notes": "Fetching with a <code>\"manual\"</code> redirect mode does not result in a <code>\"opaqueredirect\"</code> response, but a regular response."
@@ -321,6 +327,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -360,6 +369,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -400,6 +412,9 @@
               "impl_url": "https://crbug.com/688906"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -438,6 +453,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -477,6 +495,9 @@
               "version_added": "64"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": false
             },
@@ -554,6 +575,9 @@
               "version_added": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -593,6 +617,9 @@
               "version_added": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": false
             },
@@ -674,6 +701,9 @@
               "version_added": "65"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": false
             },
@@ -713,6 +743,9 @@
               "version_added": "60"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -757,6 +790,9 @@
               "version_added": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -796,6 +832,9 @@
               "version_added": "46"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": false
             },
@@ -834,6 +873,9 @@
               "version_added": "69"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": false
             },
@@ -871,6 +913,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -910,6 +955,9 @@
               "version_added": "66"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": false
             },
@@ -953,6 +1001,9 @@
               "version_added": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -992,6 +1043,9 @@
               "version_added": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": false
             },
@@ -1074,6 +1128,9 @@
               "version_added": "101"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": false
             },
@@ -1113,6 +1170,9 @@
               "version_added": "46"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0",
               "notes": "Fetching with a <code>\"manual\"</code> redirect mode does not result in a <code>\"opaqueredirect\"</code> response, but a regular response."
@@ -1153,6 +1213,9 @@
               "version_added": "40"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -1192,6 +1255,9 @@
               "version_added": "52"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -1233,6 +1299,9 @@
               "version_added": "66"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.11"
             },
@@ -1272,6 +1341,9 @@
               "version_added": "42"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -1312,6 +1384,9 @@
               "notes": "Fragment support added in Chrome 59."
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },

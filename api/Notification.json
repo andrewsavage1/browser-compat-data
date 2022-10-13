@@ -20,6 +20,9 @@
               "Starting in Chrome 49, notifications do not work in incognito mode."
             ]
           },
+          "cobalt": {
+            "version_added": false
+          },
           "edge": {
             "version_added": "14"
           },
@@ -87,6 +90,9 @@
               "version_added": "20"
             },
             "chrome_android": {
+              "version_added": false
+            },
+            "cobalt": {
               "version_added": false
             },
             "edge": {
@@ -207,6 +213,9 @@
               "version_added": "53"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "18"
             },
@@ -247,6 +256,9 @@
               "version_added": "53"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "18"
             },
@@ -288,6 +300,9 @@
             },
             "chrome_android": {
               "version_added": "42"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -334,6 +349,9 @@
             "chrome_android": {
               "version_added": "42"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "14"
             },
@@ -377,6 +395,9 @@
             },
             "chrome_android": {
               "version_added": "42"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -423,6 +444,9 @@
             "chrome_android": {
               "version_added": "42"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "14"
             },
@@ -465,6 +489,9 @@
               "version_added": "44"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "16"
             },
@@ -506,6 +533,9 @@
             },
             "chrome_android": {
               "version_added": "42"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -552,6 +582,9 @@
             "chrome_android": {
               "version_added": "42"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "14"
             },
@@ -596,6 +629,9 @@
             "chrome_android": {
               "version_added": "42"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "14"
             },
@@ -638,6 +674,9 @@
               "version_added": "53"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "18"
             },
@@ -677,6 +716,9 @@
             },
             "chrome_android": {
               "version_added": "42"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -720,6 +762,9 @@
               "version_added": "48"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "18"
             },
@@ -759,6 +804,9 @@
             },
             "chrome_android": {
               "version_added": "42"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -802,6 +850,9 @@
               "version_added": "50"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -839,6 +890,9 @@
             },
             "chrome_android": {
               "version_added": "42"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -900,6 +954,9 @@
               "version_added": "47"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "17"
             },
@@ -940,6 +997,9 @@
             },
             "chrome_android": {
               "version_added": "42"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -983,6 +1043,9 @@
               "version_added": "43"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "17"
             },
@@ -1022,6 +1085,9 @@
             },
             "chrome_android": {
               "version_added": "42"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -1065,6 +1131,9 @@
               "version_added": "50"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "17"
             },
@@ -1104,6 +1173,9 @@
             },
             "chrome_android": {
               "version_added": "42"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "14"
@@ -1149,6 +1221,9 @@
             "chrome_android": {
               "version_added": "53",
               "notes": "<a href='https://crbug.com/971422'>Does not work</a> on Android O or later regardless of Chrome version."
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {

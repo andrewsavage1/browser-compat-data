@@ -11,6 +11,9 @@
                 "version_added": "95"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              },
               "deno": {
                 "version_added": false
               },
@@ -51,6 +54,9 @@
                   "version_added": "95"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": false
                 },
@@ -131,6 +137,9 @@
                   "version_added": "95"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": false
                 },
@@ -171,6 +180,9 @@
                   "version_added": "95"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": false
                 },

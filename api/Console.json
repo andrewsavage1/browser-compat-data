@@ -9,6 +9,9 @@
             "version_added": "1"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": "11.0"
+          },
           "deno": {
             "version_added": "1.0"
           },
@@ -104,6 +107,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -159,6 +165,9 @@
               "version_added": "25"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -205,6 +214,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -253,6 +265,9 @@
               "version_added": "68"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -293,6 +308,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -406,6 +424,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -454,6 +475,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -509,6 +533,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -611,6 +638,9 @@
               "version_added": false
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": false
             },
@@ -696,6 +726,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -744,6 +777,9 @@
               "version_added": "6"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -793,6 +829,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -841,6 +880,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -945,6 +987,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -1058,6 +1103,9 @@
               "version_added": "4"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": false
             },
@@ -1111,6 +1159,9 @@
               "version_added": "4"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": false
             },
@@ -1165,6 +1216,9 @@
               "version_added": "27"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -1211,6 +1265,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -1259,6 +1316,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -1307,6 +1367,9 @@
               "version_added": "71"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -1348,6 +1411,9 @@
               "version_added": "14"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": false
             },
@@ -1398,6 +1464,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },
@@ -1446,6 +1515,9 @@
               "version_added": "1"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "deno": {
               "version_added": "1.0"
             },

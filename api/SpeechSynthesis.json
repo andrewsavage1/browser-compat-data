@@ -9,6 +9,9 @@
             "version_added": "33"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": "11.0"
+          },
           "edge": {
             "version_added": "14"
           },
@@ -55,6 +58,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -101,6 +107,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -150,6 +159,9 @@
               "version_added": "33",
               "notes": "In Android, <code>pause()</code> ends the current utterance. <code>pause()</code> behaves the same as <code>cancel()</code>."
             },
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -198,6 +210,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -244,6 +259,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -290,6 +308,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -336,6 +357,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -382,6 +406,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },
@@ -432,6 +459,9 @@
               "version_added": "33"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": {
               "version_added": "14"
             },

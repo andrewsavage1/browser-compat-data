@@ -9,6 +9,9 @@
             "version_added": "98"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": false
+          },
           "deno": [
             {
               "version_added": "1.14",

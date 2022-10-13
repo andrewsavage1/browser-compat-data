@@ -16,6 +16,9 @@
               }
             ],
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": "11.0"
+            },
             "edge": [
               {
                 "version_added": "12"
@@ -157,6 +160,9 @@
                 "version_added": "12"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": "11.0"
+              },
               "edge": {
                 "version_added": "12"
               },

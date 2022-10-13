@@ -10,6 +10,9 @@
               "version_added": "87"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": [
               {

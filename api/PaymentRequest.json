@@ -11,6 +11,9 @@
           "chrome_android": {
             "version_added": "53"
           },
+          "cobalt": {
+            "version_added": false
+          },
           "edge": {
             "version_added": "15"
           },
@@ -65,6 +68,9 @@
             "chrome_android": {
               "version_added": "53"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "15"
             },
@@ -114,6 +120,9 @@
             },
             "chrome_android": {
               "version_added": "53"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "15"
@@ -165,6 +174,9 @@
             "chrome_android": {
               "version_added": "53"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "16"
             },
@@ -212,6 +224,9 @@
               "version_added": "60"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "16"
             },
@@ -257,6 +272,9 @@
               "version_added": false
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "55",
@@ -302,6 +320,9 @@
               "version_added": "76"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": "55",
@@ -349,6 +370,9 @@
             },
             "chrome_android": {
               "version_added": "53"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "15"
@@ -399,6 +423,9 @@
             "chrome_android": {
               "version_added": "53"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "15"
             },
@@ -446,6 +473,9 @@
             },
             "chrome_android": {
               "version_added": "53"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "15"
@@ -496,6 +526,9 @@
             "chrome_android": {
               "version_added": "53"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": {
               "version_added": "15"
             },
@@ -543,6 +576,9 @@
             },
             "chrome_android": {
               "version_added": "55"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "15"
@@ -592,6 +628,9 @@
             },
             "chrome_android": {
               "version_added": "53"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": "15"

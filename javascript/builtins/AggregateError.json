@@ -10,6 +10,9 @@
               "version_added": "85"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "deno": {
               "version_added": "1.2"
             },
@@ -50,6 +53,9 @@
                 "version_added": "85"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              },
               "deno": {
                 "version_added": "1.2"
               },

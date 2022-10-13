@@ -9,6 +9,9 @@
             "version_added": "37"
           },
           "chrome_android": "mirror",
+          "cobalt": {
+            "version_added": "11.0"
+          },
           "deno": {
             "version_added": "1.0"
           },

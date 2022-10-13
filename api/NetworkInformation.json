@@ -11,6 +11,9 @@
           "chrome_android": {
             "version_added": "38"
           },
+          "cobalt": {
+            "version_added": false
+          },
           "edge": "mirror",
           "firefox": {
             "version_added": "31",
@@ -97,6 +100,9 @@
             "chrome_android": {
               "version_added": "38"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -142,6 +148,9 @@
               "version_added": "38",
               "notes": "The value is never greater than 10 Mbps, as a non-standard anti-fingerprinting measure."
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -181,6 +190,9 @@
             },
             "chrome_android": {
               "version_added": "38"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": false
@@ -226,6 +238,9 @@
             "chrome_android": {
               "version_added": "38"
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -268,6 +283,9 @@
               "version_added": "38",
               "notes": "The value is never greater than 3000 ms, as a non-standard anti-fingerprinting measure."
             },
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -305,6 +323,9 @@
               "version_added": "65"
             },
             "chrome_android": "mirror",
+            "cobalt": {
+              "version_added": false
+            },
             "edge": "mirror",
             "firefox": {
               "version_added": false
@@ -341,6 +362,9 @@
             },
             "chrome_android": {
               "version_added": "38"
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": {
               "version_added": false
@@ -391,6 +415,9 @@
             "chrome_android": {
               "version_added": "38",
               "notes": "Removal proposed in <a href='https://crbug.com/699892'>bug 699892</a>."
+            },
+            "cobalt": {
+              "version_added": false
             },
             "edge": "mirror",
             "firefox": {

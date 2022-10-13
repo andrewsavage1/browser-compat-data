@@ -11,6 +11,9 @@
                 "version_added": "24"
               },
               "chrome_android": "mirror",
+              "cobalt": {
+                "version_added": false
+              },
               "deno": {
                 "version_added": "1.8"
               },
@@ -56,6 +59,9 @@
                   "version_added": "24"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": "1.8"
                 },
@@ -621,6 +627,9 @@
                   "version_added": "24"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": "1.8"
                 },
@@ -666,6 +675,9 @@
                   "version_added": "76"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": "1.8"
                 },
@@ -707,6 +719,9 @@
                   "version_added": "76"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": "1.8"
                 },
@@ -749,6 +764,9 @@
                   "notes": "Before version 71, <code>formatToParts()</code> returned an object with an incorrectly cased type key of <code>dayperiod</code>. Version 71 and later use the specification defined <code>dayPeriod</code>. See <a href='https://crbug.com/865351'>Chromium bug 865351</a>."
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": "1.8"
                 },
@@ -806,6 +824,9 @@
                   "version_added": "24"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": "1.8"
                 },
@@ -896,6 +917,9 @@
                   "version_added": "24"
                 },
                 "chrome_android": "mirror",
+                "cobalt": {
+                  "version_added": false
+                },
                 "deno": {
                   "version_added": "1.8"
                 },
